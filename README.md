@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kasturigavali
-- 👀 I’m interested in gis solutions develpoment and spatial data science, data analysis
-- 🌱 I’m currently learning software develoment, databases, web develpoment, python
-- 💞️ I’m looking to collaborate on GIS/web develpoment, data science , data analysis
+- 👀 I’m interested in gis solutions develpoment and spatial data science, machine learning
+- 🌱 I’m currently learning GIS analytics and solution development, knowledge discovery and data minning, machine learning, software develoment, databases,  
+- 💞️ I’m looking to collaborate on GIS/web develpoment, machine learning projects
 - 📫 How to reach me: kasturi.gavali@cgu.edu
 
 <!---
